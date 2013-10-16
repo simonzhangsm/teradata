@@ -1,0 +1,4 @@
+teradata
+========
+
+teradata learng process
