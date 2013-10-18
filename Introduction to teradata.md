@@ -8,9 +8,9 @@
     4. 资料一旦确认写入后是不会被取代或删除的，即使资料是错误的亦同  
 
 ##  Teradata数据库设计思想  
-&emsp;&emsp;Teradata公司的创建者在设计Teradata时主要希望Teradata能够达到以下目标：
-    1. 并行处理能力。现在teradata是唯一一个能够并行载入数据、并行备份数据以及并行处理数据的数据库。
-    2. 能够容纳1TB甚至更多的数据。
+&emsp;&emsp;Teradata公司的创建者在设计Teradata时主要希望Teradata能够达到以下目标：  
+    1. 并行处理能力。现在teradata是唯一一个能够并行载入数据、并行备份数据以及并行处理数据的数据库。  
+    2. 能够容纳1TB甚至更多的数据。  
 ## Teradata数据库体系结构
 &emsp;&emsp;Teradata之所以强大是因为它的并行处理能力，设计者们为Teradata设计了独特的体系结构。
 &emsp;&emsp;Teradata数据库主要由PE、AMP以及BYNET三个模块组成模块：  
